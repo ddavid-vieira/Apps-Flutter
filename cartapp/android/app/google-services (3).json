@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326082596602",
+    "firebase_url": "https://cartapp-a84b3.firebaseio.com",
+    "project_id": "cartapp-a84b3",
+    "storage_bucket": "cartapp-a84b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326082596602:android:8db619346b7cbc0dc28343",
+        "android_client_info": {
+          "package_name": "com.example.cartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326082596602-svmid1b13bb48n3v8jor4rl5oisla5mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cartapp",
+            "certificate_hash": "6515d633042f5c4925d7c938e94c0f717f2bedc6"
+          }
+        },
+        {
+          "client_id": "326082596602-ukht68h0rirotnofi106pnk2sa0qi5os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmgfm6xNMNxPCU6jKrZHCyHN-kHC8zQQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326082596602-ukht68h0rirotnofi106pnk2sa0qi5os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
